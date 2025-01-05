@@ -1,1 +1,1 @@
-# tgu
+# Repo for TGU homeworks
